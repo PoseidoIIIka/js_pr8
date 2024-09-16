@@ -1,0 +1,79 @@
+#btn{
+    margin: 50px;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-weight: 700;
+    padding: 12px 0;
+    width: 200px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+}
+
+#btn2{
+    margin: 50px;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-weight: 700;
+    padding: 12px 0;
+    width: 200px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+}
+
+#btn3{
+    margin: 50px;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-weight: 700;
+    padding: 12px 0;
+    width: 200px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+}
+
+#red {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.red {
+    background: red;
+}
+
+#green {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.green {
+    background: green;
+}
+
+#blue {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.blue {
+    background: blue;
+}
+
+.block1 {
+    position: relative;
+}
+
+#block {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin-top: 50px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
